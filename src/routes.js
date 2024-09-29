@@ -17,7 +17,7 @@ router.post("/contact", async (req, res) => {
     let transporter = nodemailer.createTransport({
       host: process.env.EMAIL_HOST,
       port: process.env.EMAIL_PORT,
-      secure: false, // true pro port 465, false pro porty jako 587
+      secure: true, // true pro port 465, false pro porty jako 587
       auth: {
         user: process.env.EMAIL_USER,
         pass: process.env.EMAIL_PASSWORD,
@@ -27,7 +27,7 @@ router.post("/contact", async (req, res) => {
     // Obsah emailu
     let mailOptions = {
       from: `"Portfolio Contact" <${process.env.EMAIL_USER}>`,
-      to: process.env.EMAIL_USER_TO, // Sem se odešle email
+      to: process.env.EMAIL_USER, // Sem se odešle email
       subject: "New contact message from your portfolio",
       text: `From: ${email}\n\nMessage: ${message}`,
     };
