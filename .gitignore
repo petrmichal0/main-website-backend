@@ -1,0 +1,5 @@
+# Ignore environment files
+.env
+
+# Other ignore rules can go here if needed
+node_modules/
