@@ -27,7 +27,7 @@ router.post("/contact", async (req, res) => {
     // Obsah emailu
     let mailOptions = {
       from: `"Portfolio Contact" <${process.env.EMAIL_USER}>`,
-      to: process.env.EMAIL_USER, // Sem se odešle email
+      to: process.env.EMAIL_USER_TO, // Sem se odešle email
       subject: "New contact message from your portfolio",
       text: `From: ${email}\n\nMessage: ${message}`,
     };
