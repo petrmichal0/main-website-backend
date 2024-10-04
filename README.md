@@ -84,8 +84,6 @@ The backend for this project is hosted at the following URL:
 
 The API endpoints and detailed documentation on how to interact with the backend are provided in this README.
 
----
-
 ## Frontend Information
 
 The frontend for this project is hosted at the following URL:
