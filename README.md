@@ -78,9 +78,9 @@ The server will run on the specified port (default is 5000). You can access the 
 
 ## Backend Information
 
-The backend for this project is hosted at the following URL:
+The backend for this project is hosted at the following URL: 
 
-**Backend API:** [http://localhost:5000](http://localhost:5000)
+**Backend API:** https://main-website-backend-f90ccd0e7203.herokuapp.com/
 
 The API endpoints and detailed documentation on how to interact with the backend are provided in this README.
 
