@@ -99,7 +99,7 @@ The server will run on the specified port (default is 5000). You can access the 
 
 ## Project Structure
 
-```bash
+```css
 Main-Website-Backend/
 ├── src/
 │   ├── routes.js
