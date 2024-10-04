@@ -76,6 +76,26 @@ npm start
 
 The server will run on the specified port (default is 5000). You can access the API endpoints through [http://localhost:5000](http://localhost:5000).
 
+## Backend Information
+
+The backend for this project is hosted at the following URL:
+
+**Backend API:** [http://localhost:5000](http://localhost:5000)
+
+The API endpoints and detailed documentation on how to interact with the backend are provided in this README.
+
+---
+
+## Frontend Information
+
+The frontend for this project is hosted at the following URL:
+
+**Frontend Application:** [Frontend Link Here]
+
+You can access and interact with the application directly through this link. The frontend is designed to work seamlessly with the backend API.
+
+**Frontend Repository:** [Frontend Repository Link Here]
+
 ## API Endpoints
 
 <table>
