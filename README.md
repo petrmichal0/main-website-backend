@@ -112,9 +112,10 @@ Main-Website-Backend/
 
 ## Technologies Used
 
-- **Node.js**: JavaScript runtime built on Chrome's V8 engine for building scalable network applications.
-- **Express.js**: Fast, unopinionated, minimalist web framework for Node.js.
-  
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+
 ## Third-Party Libraries
 
 - **Nodemailer**: For sending emails from the contact form.
