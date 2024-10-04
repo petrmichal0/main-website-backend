@@ -88,11 +88,11 @@ The API endpoints and detailed documentation on how to interact with the backend
 
 The frontend for this project is hosted at the following URL:
 
-**Frontend Application:** [Frontend Link Here]
+**Frontend Application:** https://main-website-frontend-05c70576c1d7.herokuapp.com/
 
 You can access and interact with the application directly through this link. The frontend is designed to work seamlessly with the backend API.
 
-**Frontend Repository:** [Frontend Repository Link Here]
+**Frontend Repository:** https://github.com/petrmichal0/main-website-frontend
 
 ## API Endpoints
 
