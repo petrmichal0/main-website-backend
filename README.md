@@ -91,7 +91,7 @@ The API endpoints and detailed documentation on how to interact with the backend
 
 The frontend for this project is hosted at the following URL:
 
-**Frontend Application:** [https://main-website-frontend-05c70576c1d7.herokuapp.com/](https://web-final-v1.netlify.app/)
+**Frontend Application:** [https://web-final-v1.netlify.app/](https://web-final-v1.netlify.app/)
 
 You can access and interact with the application directly through this link. The frontend is designed to work seamlessly with the backend API.
 
