@@ -95,7 +95,7 @@ The frontend for this project is hosted at the following URL:
 
 You can access and interact with the application directly through this link. The frontend is designed to work seamlessly with the backend API.
 
-**Frontend Repository:** https://github.com/petrmichal0/main-website-frontend
+**Frontend Repository:** [https://github.com/petrmichal0/main-website-frontend](https://github.com/petrmichal0/main-website-frontend)
 
 ## API Endpoints
 
