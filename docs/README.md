@@ -4,6 +4,9 @@ Main Website Backend is a server-side application that handles contact form subm
 ## Badges
 ![Static Badge](https://img.shields.io/badge/status-online-brightgreen)
 
+## Quick Look
+<img src="https://github.com/user-attachments/assets/dec7723e-eb8e-4c78-92ab-25e2dd13fcf5" width="300" alt="Main Website Backend">
+
 ## Table of Content
 - [Project Title and Description](#project-title-and-description)
 - [Features](#features)
@@ -86,7 +89,7 @@ The API endpoints and detailed documentation on how to interact with the backend
 
 The frontend for this project is hosted at the following URL:
 
-**Frontend Application:** https://main-website-frontend-05c70576c1d7.herokuapp.com/
+**Frontend Application:** [https://web-final-v1.netlify.app/](https://web-final-v1.netlify.app/)
 
 You can access and interact with the application directly through this link. The frontend is designed to work seamlessly with the backend API.
 
@@ -128,7 +131,7 @@ Main-Website-Backend/
 
 ## Technologies Used
 
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=43853D)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 
 ## Third-Party Libraries
@@ -139,4 +142,4 @@ Main-Website-Backend/
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE file for details.
